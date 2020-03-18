@@ -30,4 +30,9 @@ Once finished with your project, select **File > Save** now one last time. Then 
 
 ## How to Start the Project File
 
-1. Download  a file by this link 
+1. Download  a file by this [link](https://github.com/For1207/CS50-at-Harvard-University/archive/master.zip)
+2. Go to Scratch project ([scratch.mit.edu](https://scratch.mit.edu/explore/projects/all))
+3. Create a new project by pushing **Create** button at the top of the screen.
+4. Go to **File > Load from your computer**
+5. Load **Project_0.sb3**
+6. To start the game, push the green flag icon.
